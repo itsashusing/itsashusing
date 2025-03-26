@@ -10,27 +10,7 @@ I'm a passionate **Laravel Backend Developer** with years of hands-on experience
 - 🔗 **APIs**: RESTful APIs
 - ⚡ **Tools**: Postman, VSCode, Composer
 
-## 📌 My Projects
-### 1. [Workout Warriors 💪]
-A complete exercise tracking app built with **Laravel** and **Vue.js**, featuring:
-- 🌟 Admin panel for managing exercises, categories, and day-wise schedules
-- 🔄 Real-time tracking of completed exercises using AJAX
-- 📱 Mobile API integration using Laravel Sanctum
-
-### 2. [Jewellery Order Management System 💍]
-A system for handling customer orders and assignments to jewellers:
-- 📋 Admin dashboard for managing orders and status updates
-- 📨 Notification system using Firebase Cloud Messaging
-- 🗂️ Multi-user role-based authentication with Laravel Breeze
-
-### 3. [Dynamic Data Table 🗃️]
-A reusable, fully responsive data table component:
-- 🔍 Search, filter, and pagination functionality
-- 🎨 Built with Blade, Bootstrap, and Laravel for seamless integration
-- ⚡ Fetching data using AJAX for real-time updates
-
 ## 🔧 What I’m currently working on
-- 🌱 **Learning**: Flutter & Three.js to expand my frontend skills
 - 🛠️ **Improving**: Optimizing Laravel queries using caching and improving system performance
 - 📊 **Exploring**: Distributed systems with Kubernetes and microservices architecture
 
